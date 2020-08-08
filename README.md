@@ -14,10 +14,10 @@ A showcase of my most recent projects.
 Provides the user with a way to contact me directly.
 
 ##Visuals
-![](Assets/Portfolio.png)
-
+![](./Assets/Portfolio.png)
+ 
 ##Link to Deployed Application
-
+https://gmilteer.github.io/Portfolio/
 
 ##Future Developments
 1. Get links incorporated to the projects
