@@ -20,7 +20,5 @@ Provides the user with a way to contact me directly.
 https://gmilteer.github.io/Portfolio/
 
 ##Future Developments
-1. Get links incorporated to the projects
-2. Get contact section linked to my email so I can recieve messages.
-3. Add more content.
-4. Style it more.
+1. Add more content.
+2. Style it more.
